@@ -6,7 +6,7 @@ public class Test : MonoBehaviour
     public float rotateSpeed = 10f;      
 
     public bool entroAlPortal = false;
-    
+
 
 
 
@@ -39,7 +39,7 @@ public class Test : MonoBehaviour
             if (transform.localScale.x == 0.5 && transform.localScale.y == 1.5 && transform.localScale.z == 0.5)
             {
                 Descalar();
-                
+
             }
         }
     }
